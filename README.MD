@@ -2,13 +2,11 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
-
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
-
 
 <p align="center">
 <img 
@@ -17,76 +15,52 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# 📘 EBOOK: De Analista a Engenheiro de Dados
 
+> ℹ️ **NOTE:** Este é o repositório do ebook estratégico para engenharia de dados, desenvolvido com auxílio de IA.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+Projeto com o objetivo de criar um ebook completo sobre a jornada de transição da análise de dados para engenharia de dados, utilizando prompts de IA para desenvolvimento do conteúdo.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="./output/Sua jornada Estratégica para Engenharia de Dados.pdf" title="View PDF now"> 📕 Clique aqui para ler o ebook</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [ChatGPT](https://chat.openai.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://www.canva.com/)
 
-## 🧠 Prompts
+## 🧠 Prompts utilizados
 
+**ChatGPT:**
 
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| Ação | Prompt |
+|------|--------|
+| Estrutura do ebook | "Crie a estrutura completa de um ebook sobre a transição de analista para engenheiro de dados, incluindo mentalidade, ferramentas e projeto prático" |
+| Conteúdo técnico | "Descreva os mandamentos do SQL para engenheiros de dados, focando em performance, integridade e escalabilidade" |
+| Metáfora narrativa | "Desenvolva uma analogia entre engenheiro de dados e capitão de navio para explicar a mentalidade estratégica" |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado e revisado via ChatGPT
+- Estrutura pedagógica progressiva
+- Projeto prático completo com dados de vendas
+- Abordagem de mentalidade + ferramentas
 
-## 📚 Materiais
+## 📚 Estrutura do ebook
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Mentalidade do Engenheiro de Dados
+- SQL para Engenheiros
+- Python: Sua Vela Mestre
+- Domine as Nuvens
+- Airflow: Orchestration de Pipelines
+- Processamento com Spark
+- Containers com Docker
+- Projeto Prático: Análise de Vendas
 
-## 🛠️ Instruções de execução
+## 🛠️ Instruções de uso
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+Baixe o PDF na pasta `output/` e utilize como guia de estudos para ingressar na engenharia de dados.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ Desenvolvido com 💜 para a comunidade de dados
